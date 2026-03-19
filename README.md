@@ -1,3 +1,12 @@
+---
+title: NutriLens
+emoji: 🍱
+colorFrom: green
+colorTo: yellow
+sdk: docker
+app_file: app.py
+pinned: false
+---
 # 🍽️ NutriLens — AI Nutrition Tracker
 
 > An end-to-end AI-powered nutrition tracking web app specifically designed for **Indian cuisine**. Upload a food photo or scan a barcode to instantly get nutrition facts, track daily intake, and receive personalized AI-driven dietary insights.
