@@ -138,11 +138,4 @@ streamlit run app.py
 
 ---
 
-## 👩‍💻 Author
-
-**Prachi Mohanty**
-- GitHub: [@programcode20](https://github.com/programcode20)
-
----
-
 <p align="center">Made with ❤️ for Indian cuisine 🍛</p>
